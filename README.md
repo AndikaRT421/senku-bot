@@ -11,7 +11,9 @@ SenkuBot is an **open-source AI assistant** that recognizes and classifies miner
 | Seamless sync | Hooks into existing databases / dashboards | REST & gRPC adapters |
 
 ## 📂 Dataset
-We fine-tune on the **Minerals Identification Dataset** from Kaggle (2,800+ labelled images).
+We fine-tune on the [**Minerals Identification Dataset**](https://www.kaggle.com/datasets/asiedubrempong/minerals-identification-dataset/data) from Kaggle (2,800+ labelled images).
 
 ## 👥 Authors
-Andika Rahman Teja • Malvin Leonardo Hartanto • Rafli Raihan Pramudya
+- Andika Rahman Teja
+- Malvin Leonardo Hartanto
+- Rafli Raihan Pramudya
